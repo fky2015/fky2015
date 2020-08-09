@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there, I'm FKY
+# Hi there, I'm FKY
 
 
 CS Student / Full Stack Developer / [Blogger](https://blog.fkynjyq.com)
@@ -14,14 +14,14 @@ CS Student / Full Stack Developer / [Blogger](https://blog.fkynjyq.com)
 - 🥁 Fun fact: I love to play drums and other instruments.
 
 
-### Connect with me:
+## Connect with me:
 
 [<img align="center" alt="blog.fkynjyq.com" width="44px" src="https://img.icons8.com/color/48/000000/google-blog-search.png" />][website]
 [<img align="center" alt="fky | Twitter" width="44px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
 [<img align="center" alt="fky | Twitter" width="44px" src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v2.png" />][email]
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 
 <img align="center" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -42,7 +42,7 @@ CS Student / Full Stack Developer / [Blogger](https://blog.fkynjyq.com)
 <img align="center" alt="Vim" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="center" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
-# Blog posts
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
