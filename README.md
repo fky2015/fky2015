@@ -42,6 +42,11 @@ CS Student / Full Stack Developer / [Blogger](https://blog.fkynjyq.com)
 <img align="center" alt="Vim" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="center" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
+## Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
