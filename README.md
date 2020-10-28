@@ -11,7 +11,7 @@
 
 <br />
 
-- 🔭 I’m currently working on [Privacy Wallet - trading personal data without leaking privacy](https://github.com/PrivacyWallet).
+- 🔭 I’m currently taking an internship and working on my next blog site (will be released soon).
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
