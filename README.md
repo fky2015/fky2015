@@ -62,6 +62,11 @@
 
 ## ✍🏻 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Verilog 最佳实践](https://blog.fkynjyq.com/verilog-best-practise/)
+- [关于小组合作的沉思](https://blog.fkynjyq.com/contemplation-of-teamwork/)
+- [HDL 的现代代码编辑体验——配置 VS Code 的 Verilog 开发环境](https://blog.fkynjyq.com/write-verilog-with-vscode/)
+- [透过《黑神话：悟空》](https://blog.fkynjyq.com/see-through-black-myth-wukong/)
+- [我的大三下 Q&amp;A](https://blog.fkynjyq.com/the-second-part-of-my-junior-QnA/)
 <!-- BLOG-POST-LIST:END -->
 
 
