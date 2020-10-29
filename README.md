@@ -58,6 +58,13 @@
 ## 🧠 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+```text
+Rust         7 hrs 4 mins    ██████████████████░░░░░░░   71.81 % 
+Markdown     48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Other        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+TypeScript   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+```
 <!--END_SECTION:waka-->
 
 ## ✍🏻 Blog posts
