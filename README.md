@@ -79,11 +79,11 @@ VimL       1 min           ░░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/fky2015/multithread-cgi-server/pull/7) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-2. 🎉 Merged PR [#6](https://github.com/fky2015/multithread-cgi-server/pull/6) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-3. 🎉 Merged PR [#5](https://github.com/fky2015/multithread-cgi-server/pull/5) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-4. 🎉 Merged PR [#3](https://github.com/fky2015/multithread-cgi-server/pull/3) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-5. 🎉 Merged PR [#4](https://github.com/fky2015/multithread-cgi-server/pull/4) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+1. 🗣 Commented on [#334](https://github.com/liuchengxu/vista.vim/issues/334) in [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)
+2. 🎉 Merged PR [#7](https://github.com/fky2015/multithread-cgi-server/pull/7) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+3. 🎉 Merged PR [#6](https://github.com/fky2015/multithread-cgi-server/pull/6) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+4. 🎉 Merged PR [#5](https://github.com/fky2015/multithread-cgi-server/pull/5) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+5. 🎉 Merged PR [#3](https://github.com/fky2015/multithread-cgi-server/pull/3) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
