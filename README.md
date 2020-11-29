@@ -80,11 +80,11 @@ Makefile       30 mins         █░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/BITNP/BIThesis-wiki/pull/1) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-2. 🗣 Commented on [#334](https://github.com/liuchengxu/vista.vim/issues/334) in [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)
-3. 🎉 Merged PR [#7](https://github.com/fky2015/multithread-cgi-server/pull/7) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-4. 🎉 Merged PR [#6](https://github.com/fky2015/multithread-cgi-server/pull/6) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
-5. 🎉 Merged PR [#5](https://github.com/fky2015/multithread-cgi-server/pull/5) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+1. 💪 Opened PR [#59](https://github.com/BITNP/BIThesis/pull/59) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 💪 Opened PR [#1](https://github.com/BITNP/BIThesis-wiki/pull/1) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+3. 🗣 Commented on [#334](https://github.com/liuchengxu/vista.vim/issues/334) in [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)
+4. 🎉 Merged PR [#7](https://github.com/fky2015/multithread-cgi-server/pull/7) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
+5. 🎉 Merged PR [#6](https://github.com/fky2015/multithread-cgi-server/pull/6) in [fky2015/multithread-cgi-server](https://github.com/fky2015/multithread-cgi-server)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
