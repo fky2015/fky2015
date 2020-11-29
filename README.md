@@ -80,11 +80,11 @@ Makefile       30 mins         █░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BITNP/BIThesis-wiki/pull/1) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-2. 💪 Opened PR [#60](https://github.com/BITNP/BIThesis/pull/60) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 💪 Opened PR [#59](https://github.com/BITNP/BIThesis/pull/59) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 💪 Opened PR [#1](https://github.com/BITNP/BIThesis-wiki/pull/1) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-5. 🗣 Commented on [#334](https://github.com/liuchengxu/vista.vim/issues/334) in [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim)
+1. 💪 Opened PR [#2](https://github.com/BITNP/BIThesis-wiki/pull/2) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+2. 🎉 Merged PR [#59](https://github.com/BITNP/BIThesis/pull/59) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🎉 Merged PR [#1](https://github.com/BITNP/BIThesis-wiki/pull/1) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+4. 💪 Opened PR [#60](https://github.com/BITNP/BIThesis/pull/60) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 💪 Opened PR [#59](https://github.com/BITNP/BIThesis/pull/59) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
