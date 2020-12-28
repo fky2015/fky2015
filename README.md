@@ -80,10 +80,10 @@ Go         23 mins         ██░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/BITNP/BIThesis/pull/63) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🎉 Merged PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 💪 Opened PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#61](https://github.com/BITNP/BIThesis/issues/61) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#1](https://github.com/BITNP/BIThesis-scaffold/pull/1) in [BITNP/BIThesis-scaffold](https://github.com/BITNP/BIThesis-scaffold)
+2. 🎉 Merged PR [#63](https://github.com/BITNP/BIThesis/pull/63) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🎉 Merged PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 💪 Opened PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 5. 🗣 Commented on [#61](https://github.com/BITNP/BIThesis/issues/61) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
