@@ -80,11 +80,11 @@ JavaScript   57 mins         █▒░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/BITNP/BIThesis/issues/60) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🎉 Merged PR [#1](https://github.com/BITNP/BIThesis-scaffold/pull/1) in [BITNP/BIThesis-scaffold](https://github.com/BITNP/BIThesis-scaffold)
-3. 🎉 Merged PR [#63](https://github.com/BITNP/BIThesis/pull/63) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🎉 Merged PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 💪 Opened PR [#62](https://github.com/BITNP/BIThesis/pull/62) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. ❗️ Opened issue [#67](https://github.com/BITNP/BIThesis/issues/67) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🗣 Commented on [#66](https://github.com/BITNP/BIThesis/issues/66) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#60](https://github.com/BITNP/BIThesis/issues/60) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🎉 Merged PR [#1](https://github.com/BITNP/BIThesis-scaffold/pull/1) in [BITNP/BIThesis-scaffold](https://github.com/BITNP/BIThesis-scaffold)
+5. 🎉 Merged PR [#63](https://github.com/BITNP/BIThesis/pull/63) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
