@@ -80,11 +80,11 @@ Makefile     42 mins         █░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/BITNP/BIThesis/pull/69) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. ❗️ Opened issue [#68](https://github.com/BITNP/BIThesis/issues/68) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. ❗️ Opened issue [#67](https://github.com/BITNP/BIThesis/issues/67) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#66](https://github.com/BITNP/BIThesis/issues/66) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#60](https://github.com/BITNP/BIThesis/issues/60) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#3](https://github.com/BITNP/BIThesis-wiki/pull/3) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+2. 💪 Opened PR [#3](https://github.com/BITNP/BIThesis-wiki/pull/3) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+3. ❗️ Closed issue [#67](https://github.com/BITNP/BIThesis/issues/67) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🎉 Merged PR [#69](https://github.com/BITNP/BIThesis/pull/69) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🗣 Commented on [#66](https://github.com/BITNP/BIThesis/issues/66) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
