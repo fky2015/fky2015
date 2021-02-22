@@ -59,7 +59,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     32 mins         ████████████▒░░░░░░░░░░░░   49.23 % 
+TypeScript   28 mins         ██████████▓░░░░░░░░░░░░░░   42.19 % 
+VimL         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 ```
 <!--END_SECTION:waka-->
 
