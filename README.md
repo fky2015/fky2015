@@ -80,11 +80,11 @@ Java         11 mins         ▒░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/BITNP/BIThesis-wiki/pull/6) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-2. ❗️ Opened issue [#72](https://github.com/BITNP/BIThesis/issues/72) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. ❗️ Opened issue [#71](https://github.com/BITNP/BIThesis/issues/71) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. ❗️ Opened issue [#70](https://github.com/BITNP/BIThesis/issues/70) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. ❗️ Closed issue [#66](https://github.com/BITNP/BIThesis/issues/66) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#6](https://github.com/BITNP/BIThesis-wiki/pull/6) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+2. 💪 Opened PR [#6](https://github.com/BITNP/BIThesis-wiki/pull/6) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+3. ❗️ Opened issue [#72](https://github.com/BITNP/BIThesis/issues/72) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. ❗️ Opened issue [#71](https://github.com/BITNP/BIThesis/issues/71) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. ❗️ Opened issue [#70](https://github.com/BITNP/BIThesis/issues/70) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
