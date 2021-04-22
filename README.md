@@ -80,11 +80,11 @@ YAML         34 mins         █░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/BITNP/BIThesis/issues/75) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🗣 Commented on [#74](https://github.com/BITNP/BIThesis/issues/74) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#76](https://github.com/BITNP/BIThesis/issues/76) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🗣 Commented on [#75](https://github.com/BITNP/BIThesis/issues/75) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 3. 🗣 Commented on [#74](https://github.com/BITNP/BIThesis/issues/74) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 4. 🗣 Commented on [#74](https://github.com/BITNP/BIThesis/issues/74) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#72](https://github.com/BITNP/BIThesis/issues/72) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🗣 Commented on [#74](https://github.com/BITNP/BIThesis/issues/74) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
