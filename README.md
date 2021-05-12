@@ -80,11 +80,11 @@ Other    1 hr 5 mins     ██░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/fky2015/cloud-ladder-presentation/pull/4) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
-2. 🎉 Merged PR [#5](https://github.com/fky2015/cloud-ladder-presentation/pull/5) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
-3. 🎉 Merged PR [#7](https://github.com/fky2015/cloud-ladder-presentation/pull/7) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
-4. 🎉 Merged PR [#6](https://github.com/fky2015/cloud-ladder-presentation/pull/6) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
-5. 🎉 Merged PR [#6](https://github.com/PrivacyWallet/privace-frontend/pull/6) in [PrivacyWallet/privace-frontend](https://github.com/PrivacyWallet/privace-frontend)
+1. 🗣 Commented on [#77](https://github.com/BITNP/BIThesis/issues/77) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#4](https://github.com/fky2015/cloud-ladder-presentation/pull/4) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
+3. 🎉 Merged PR [#5](https://github.com/fky2015/cloud-ladder-presentation/pull/5) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
+4. 🎉 Merged PR [#7](https://github.com/fky2015/cloud-ladder-presentation/pull/7) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
+5. 🎉 Merged PR [#6](https://github.com/fky2015/cloud-ladder-presentation/pull/6) in [fky2015/cloud-ladder-presentation](https://github.com/fky2015/cloud-ladder-presentation)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
