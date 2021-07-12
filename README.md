@@ -80,10 +80,10 @@ YAML     26 mins         █▓░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#84](https://github.com/BITNP/BIThesis/issues/84) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🗣 Commented on [#83](https://github.com/BITNP/BIThesis/issues/83) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🗣 Commented on [#80](https://github.com/BITNP/BIThesis/issues/80) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#79](https://github.com/BITNP/BIThesis/issues/79) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. ❗️ Opened issue [#85](https://github.com/BITNP/BIThesis/issues/85) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. ❗️ Opened issue [#84](https://github.com/BITNP/BIThesis/issues/84) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#83](https://github.com/BITNP/BIThesis/issues/83) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🗣 Commented on [#80](https://github.com/BITNP/BIThesis/issues/80) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 5. 🗣 Commented on [#79](https://github.com/BITNP/BIThesis/issues/79) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
