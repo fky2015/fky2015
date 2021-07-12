@@ -80,11 +80,11 @@ YAML     26 mins         █▓░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/BITNP/BIThesis/issues/83) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🗣 Commented on [#80](https://github.com/BITNP/BIThesis/issues/80) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🗣 Commented on [#79](https://github.com/BITNP/BIThesis/issues/79) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. ❗️ Opened issue [#84](https://github.com/BITNP/BIThesis/issues/84) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🗣 Commented on [#83](https://github.com/BITNP/BIThesis/issues/83) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#80](https://github.com/BITNP/BIThesis/issues/80) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 4. 🗣 Commented on [#79](https://github.com/BITNP/BIThesis/issues/79) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 💪 Opened PR [#1](https://github.com/fky2015/BIThesis/pull/1) in [fky2015/BIThesis](https://github.com/fky2015/BIThesis)
+5. 🗣 Commented on [#79](https://github.com/BITNP/BIThesis/issues/79) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 [![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
