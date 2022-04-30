@@ -1,69 +1,85 @@
 <div align="center">
 
-# 🎉 Hi there, I'm FKY
+# 👋 Hi there, I'm Feng Kaiyu.
 
-![CS Student](https://img.shields.io/badge/Computer%20Science-student-brightgreen?style=for-the-badge&logo=python)
-[![Full Stack Developer](https://img.shields.io/badge/developer-full%20stack-blueviolet?style=for-the-badge&logo=neovim)](https://github.com/fky2015)
-[![Blogger](https://img.shields.io/badge/technical-writer-blueviolet?style=for-the-badge&logo=rss&color=FFA500)](https://blog.fkynjyq.com)
+[![loveress01@outlook.com](https://img.shields.io/badge/email-loveress01@outlook.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)][email]
+[![https://blog.fkynjyq.com](https://img.shields.io/badge/blog-https://blog.fkynjyq.com-blueviolet?style=flat-square&logo=vercel&color=000000)][website]
+[![@fkynjyq](https://img.shields.io/badge/twitter-@fkynjyq-blueviolet?style=flat-square&logo=twitter&color=1DA1F2)][twitter]
 
 </div>
 
-![](https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg)
+I am a **fullstack developer**.
+As a graduate student, 
+my research sits at the intersection between the theory and practice of **blockchain technology** as well as **consensus algorithm**.
 
-<br />
+I'm also a lover of compilers, LaTeX and Linux. 
 
-- 🔭 I’m currently a graduate student working on blockchain development.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects (especially Rust and TS).
-- 🏋️ Fun fact: I have recently been practicing weightlifting.
+[![](https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg)](https://github.com/fky2015)
+
+- 🔭 I’m currently a graduate student working on **blockchain consensus algorithm development**.
+- 🌱 I’m currently **learning everything**.
+- 👯 I’m **looking to collaborate** with other creators.
+- 🥅 2022 Goals: **Contribute more to Open Source projects (especially Rust and TS)**.
+- 🏋️ Fun fact: I have recently been practicing **weightlifting (clean 60 kg now)**.
 
 <div align="center">
 
-## ✉ Connect with me
+## 🔧 Technical Stack (Still Expanding)
 
-[![loveress01@outlook.com](https://img.shields.io/badge/email-loveress01@outlook.com-blueviolet?style=for-the-badge&logo=microsoft-outlook&color=0078d4)][email]
-[![https://blog.fkynjyq.com](https://img.shields.io/badge/blog-https://blog.fkynjyq.com-blueviolet?style=for-the-badge&logo=vercel&color=000000)][website]
-[![@fkynjyq](https://img.shields.io/badge/twitter-@fkynjyq-blueviolet?style=for-the-badge&logo=twitter&color=1DA1F2)][twitter]
+</div>
 
-## 🔧 Languages and Tools (including used-to-work-on)
+As a blockchain engineer:
+
+![RUST](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
+![Substrate](https://img.shields.io/badge/Substrate-%23282828.svg?&style=flat-square&logo=parity-substrate&logoColor=white)
+- solidity
+- web3.js
+
+As a Linux user: 
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=flat-square&logo=arch-linux&logoColor=white)
+![Gnome](https://img.shields.io/badge/Gnome-%234A86CF.svg?&style=flat-square&logo=gnome&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-%23F46D01.svg?&style=flat-square&logo=alacritty&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white)
+
+As a fullstack developer:
+
+![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)
+![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/vuetify-%231867c0.svg?&style=flat-square&logo=vuetify&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
+
+As a operation engineer:
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+
+Other tools preferences:
 
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white)
-![Gnome](https://img.shields.io/badge/Gnome-%234A86CF.svg?&style=for-the-badge&logo=gnome&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-%23F46D01.svg?&style=for-the-badge&logo=alacritty&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![RUST](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=f7df1e)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+![Roam Research](https://img.shields.io/badge/Roam%20Research-%23343A40.svg?&style=flat-square&logo=roam-research&logoColor=white)
 
-![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/vuetify-%231867c0.svg?&style=for-the-badge&logo=vuetify&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
-
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23f05032.svg?&style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 
 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+<div align="center">
 
-![Git](https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## Education and Work experience
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Roam Research](https://img.shields.io/badge/Roam%20Research-%23343A40.svg?&style=for-the-badge&logo=roam-research&logoColor=white)
-![Substrate](https://img.shields.io/badge/Substrate-%23282828.svg?&style=for-the-badge&logo=parity-substrate&logoColor=white)
+</div>
 
+- Graduated from Beijing Institute of Technology in CS (2017-2021).
+- Half year internship experience at ByteDance as a backend engineer (2021).
+- Studing for master's degree (2021-present) at BIT in CST (School of Cyberspace Science and Technology).
+
+<div align="center">
 
 ## 🧠 Weekly development breakdown
 
