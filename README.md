@@ -16,11 +16,12 @@ I'm also a lover of compilers, LaTeX and Linux.
 
 [![](https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg)](https://github.com/fky2015)
 
-- 🔭 I’m currently a graduate student working on **blockchain consensus algorithm development**.
-- 🌱 I’m currently **learning everything**.
-- 👯 I’m **looking to collaborate** with other creators.
-- 🥅 2022 Goals: **Contribute more to Open Source projects (especially Rust and TS)**.
-- 🏋️ Fun fact: I have recently been practicing **weightlifting (clean 60 kg now)**.
+- :telescope: Looking for an Internship in distributed systems.
+- :microscope: I’m currently a graduate student working on **blockchain consensus algorithm development**.
+- :seedling: I’m currently **learning everything**.
+- :handshake:	I’m **looking to collaborate** with other creators.
+- :goal_net: 2022 Goals: **Contribute more to Open Source projects (especially Rust and TS)**.
+- :weight_lifting: Fun fact: I have recently been practicing **weightlifting (clean 60 kg now)**.
 
 <div align="center">
 
@@ -75,9 +76,14 @@ Other tools preferences:
 
 </div>
 
-- Graduated from Beijing Institute of Technology in CS (2017-2021).
-- Half year internship experience at ByteDance as a backend engineer (2021).
-- Studing for master's degree (2021-present) at BIT in CST (School of Cyberspace Science and Technology).
+- Education Summary
+  - Master of Science in Cyberspace Science and Technology | Beijing Institute of Technology (2021-present), specializing in consensus algorithms.
+  - Bachelor of Science in Computer Science | Beijing Institute of Technology (2017-2021)
+- Internship
+  - Backend Development Intern | Fanqie Novel, ByteDance (2020/10 - 2021/3).
+    - Technologies used: Golang, Kafka, and FaaS
+    - Responsibilites: Designing technical systems, completing development, testing, and deploying the systems.
+<!-- Accomplishments -->
 
 <div align="center">
 
@@ -95,7 +101,8 @@ Other tools preferences:
 
 <!--START_SECTION:activity-->
 
-[![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)](https://github.com/fky2015)
+![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
+![FKY's most used lagnuages](https://github-readme-stats.vercel.app/api/top-langs/?username=fky2015&layout=compact)
 
 </div>
 
