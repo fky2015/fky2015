@@ -101,8 +101,8 @@ Other tools preferences:
 
 <!--START_SECTION:activity-->
 
-![FKY's github stats](https://github-readme-stats.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
-![FKY's most used lagnuages](https://github-readme-stats.vercel.app/api/top-langs/?username=fky2015&layout=compact)
+![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
+![FKY's most used lagnuages](https://github-readme-stats-phi-lemon.vercel.app/api/top-langs/?username=fky2015&layout=compact)
 
 </div>
 
