@@ -12,16 +12,17 @@ I am a **fullstack developer**.
 As a graduate student, 
 my research sits at the intersection between the theory and practice of **blockchain technology** as well as **consensus algorithm**.
 
-I'm also a lover of compilers, LaTeX and Linux. 
+I'm also a lover of LaTeX and Linux. 
 
-[![](https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg)](https://github.com/fky2015)
+[![](https://github.com/fky2015/fky2015/raw/output/github-snake.svg#gh-light-mode-only)](https://github.com/fky2015)
+[![](https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg#gh-dark-mode-only)](https://github.com/fky2015)
 
 - :telescope: Looking for an Internship in distributed systems.
 - :microscope: I’m currently a graduate student working on **blockchain consensus algorithm development**.
 - :seedling: I’m currently **learning everything**.
 - :handshake:	I’m **looking to collaborate** with other creators.
 - :goal_net: 2023 Goals: Start an internship in distributed systems.
-- :weight_lifting: Fun fact: I have recently been practicing **weightlifting (clean 60 kg now)**.
+- :weight_lifting: Factold: I have recently been practicing **weightlifting (clean 60 kg now)**.
 
 <div align="center">
 
@@ -83,7 +84,7 @@ Other tools preferences:
 - Internship
   - Backend Development Intern | Fanqie Novel, ByteDance (2020/10 - 2021/3).
     - Technologies used: Golang, Kafka, and FaaS.
-    - Responsibilites: Designing technical systems, completing development, testing, and deploying the systems.
+    - Responsibilities: Designing technical systems, completing development, testing, and deploying the systems.
 <!-- Accomplishments -->
 
 <div align="center">
