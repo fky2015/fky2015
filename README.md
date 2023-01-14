@@ -14,8 +14,11 @@ my research sits at the intersection between the theory and practice of **blockc
 
 I'm also a lover of LaTeX and Linux. 
 
-[![](https://github.com/fky2015/fky2015/raw/output/github-snake.svg#gh-light-mode-only)](https://github.com/fky2015)
-[![](https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg#gh-dark-mode-only)](https://github.com/fky2015)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
+</picture>
 
 - :telescope: Looking for an Internship in distributed systems.
 - :microscope: I’m currently a graduate student working on **blockchain consensus algorithm development**.
