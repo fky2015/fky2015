@@ -20,7 +20,7 @@ I'm also a lover of LaTeX and Linux.
   <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
 </picture>
 
-- :telescope: Looking for an Internship in distributed systems.
+- :telescope: **Looking for an Internship in distributed systems.**
 - :microscope: I’m currently a graduate student working on **blockchain consensus algorithm development**.
 - :seedling: I’m currently **learning everything**.
 - :handshake:	I’m **looking to collaborate** with other creators.
@@ -85,9 +85,12 @@ Other tools preferences:
   - Master of Science in Cyberspace Science and Technology | Beijing Institute of Technology (2021-present), specializing in consensus algorithms.
   - Bachelor of Science in Computer Science | Beijing Institute of Technology (2017-2021)
 - Internship
-  - Backend Development Intern | Fanqie Novel, ByteDance (2020/10 - 2021/3).
+  - **Backend Development Intern** | _Fanqie Novel, ByteDance_ (2020/10 - 2021/3).
     - Technologies used: Golang, Kafka, and FaaS.
     - Responsibilities: Designing technical systems, completing development, testing, and deploying the systems.
+    - Accomplishments:
+      - Deployed in-site message system with adept design and testing, as Software Engineer with experience in Kafka and FaaS.
+      - Participated in the analysis of requirements for the author's backend and user's backend, and the design of the system technical solution. Completed the development of requirements, gray-scale testing, online and monitoring.
 <!-- Accomplishments -->
 
 <div align="center">
