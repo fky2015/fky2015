@@ -35,7 +35,7 @@ I'm also a lover of LaTeX and Linux.
 
 As a blockchain engineer:
 
-![RUST](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
 ![Substrate](https://img.shields.io/badge/Substrate-%23282828.svg?&style=flat-square&logo=parity-substrate&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?&style=flat-square&logo=solidity&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
@@ -46,17 +46,17 @@ As a Linux user:
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=flat-square&logo=arch-linux&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-%234A86CF.svg?&style=flat-square&logo=gnome&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-%23F46D01.svg?&style=flat-square&logo=alacritty&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white)
 
 As a fullstack developer:
 
-![RUST](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=rust&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)
-![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
-![Vuetify](https://img.shields.io/badge/vuetify-%231867c0.svg?&style=flat-square&logo=vuetify&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-%231867c0.svg?&style=flat-square&logo=vuetify&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 
 As a operation engineer:
@@ -69,10 +69,10 @@ Other tools preferences:
 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![Roam Research](https://img.shields.io/badge/Roam%20Research-%23343A40.svg?&style=flat-square&logo=roam-research&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23f05032.svg?&style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?&style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23f05032.svg?&style=flat-square&logo=git&logoColor=white)
 
 
 <div align="center">
