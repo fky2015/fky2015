@@ -117,3 +117,10 @@ Other tools preferences:
 [website]: https://blog.fkynjyq.com
 [twitter]: https://twitter.com/fkynjyq
 [email]: mailto:loveress01@outlook.com
+
+---
+
+<sub><sup>
+[*Read me before creating yours.](https://github.com/fky2015/fky2015/wiki/Read-me-before-creating-yours-profile.)
+</sup></sub>
+
