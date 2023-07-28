@@ -36,9 +36,11 @@ I'm also a lover of LaTeX and Linux.
 
 </div>
 
-As a second-year graduate student, I proposed a novel consensus algorithm called [Jasmine](https://github.com/fky2015/Jasmine) as part of my research. In the meanwhile, I decided that I would like to work on infrastructure in the future.
+As a second-year graduate student, I proposed a novel consensus algorithm called [Jasmine](https://github.com/fky2015/Jasmine) as part of my research. In the meanwhile, I decided that I would like to work on infrastructure in the future. Consequently, I embarked on an internship at ByteHouse.
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC01.svg?&style=flat-square&logo=ClickHouse&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-%235277C3.svg?&style=flat-square&logo=NixOS&logoColor=white)
 
 As a first-year graduate student, I spent times in [blockchain consensus algorithms](https://github.com/fky2015/substrate-MCA) and [LaTeX package development](https://github.com/BITNP/BIThesis):
 
