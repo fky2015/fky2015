@@ -115,6 +115,15 @@ Other tools preferences:
 ## 🧠 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+C++               9 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   35.05 %
+TeX               6 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+XML               3 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
+SQL               1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Bash              1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+```
+
 <!--END_SECTION:waka-->
 
 ## ✍🏻 Blog posts
