@@ -120,6 +120,11 @@ Other tools preferences:
 ## ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AIGC 与我们](https://blog.fkynjyq.com/AIGC-to-us)
+- [关于 GNOME 登录页面灰屏幕卡死的这件事](https://blog.fkynjyq.com/stuck-at-frozen-gnome-session-when-logging-in)
+- [2023 的 Roam Research 怎么样了？](https://blog.fkynjyq.com/how-s-roam-research-doing-in-2023)
+- [Tips for LaTeX3 Beginners](https://blog.fkynjyq.com/tips-for-latex3-beginners)
+- [BIThesis 的目标和愿景，现状和展望](https://blog.fkynjyq.com/bithesis-aims-and-vision-current-state-and-outlook)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Github Activity & Stats
