@@ -139,11 +139,11 @@ Bash              1 hr 30 mins    █░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1327](https://github.com/ByConity/ByConity/pull/1327) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-2. 💪 Opened PR [#1327](https://github.com/ByConity/ByConity/pull/1327) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-3. 🚀 Published release [Test only version for 0.3.3-testonly](https://github.com/ByConity/ByConity/releases/tag/0.3.3-testonly) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-4. 💪 Opened PR [#408](https://github.com/BITNP/BIThesis/pull/408) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🚀 Published release [Public Release for v3.6.2](https://github.com/BITNP/BIThesis/releases/tag/v3.6.2) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🔒 Closed issue [#410](https://github.com/BITNP/BIThesis/issues/410) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#411](https://github.com/BITNP/BIThesis/pull/411) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 💪 Opened PR [#1369](https://github.com/ByConity/ByConity/pull/1369) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+4. 🚀 Published release [Test only](https://github.com/ByConity/ByConity/releases/tag/0.3.3-testonly.4) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+5. 🚀 Published release [Test only](https://github.com/ByConity/ByConity/releases/tag/0.3.3-testonly.3) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
