@@ -139,11 +139,11 @@ OpenEdge ABL      1 hr 49 mins    █▒░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#424](https://github.com/BITNP/BIThesis/pull/424) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🗣 Commented on [#163](https://github.com/BITNP/BIThesis/issues/163#issuecomment-2016403557) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🔒 Closed issue [#374](https://github.com/BITNP/BIThesis/issues/374) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🎉 Merged PR [#423](https://github.com/BITNP/BIThesis/pull/423) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#389](https://github.com/BITNP/BIThesis/issues/389#issuecomment-2016368655) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#425](https://github.com/BITNP/BIThesis/issues/425#issuecomment-2016715845) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🔒 Closed issue [#420](https://github.com/BITNP/BIThesis/issues/420) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#420](https://github.com/BITNP/BIThesis/issues/420#issuecomment-2016706279) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. ❗ Opened issue [#425](https://github.com/BITNP/BIThesis/issues/425) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🎉 Merged PR [#424](https://github.com/BITNP/BIThesis/pull/424) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
