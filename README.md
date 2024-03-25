@@ -139,11 +139,11 @@ XML               1 hr 42 mins    █░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#425](https://github.com/BITNP/BIThesis/issues/425#issuecomment-2016715845) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🔒 Closed issue [#420](https://github.com/BITNP/BIThesis/issues/420) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🗣 Commented on [#420](https://github.com/BITNP/BIThesis/issues/420#issuecomment-2016706279) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. ❗ Opened issue [#425](https://github.com/BITNP/BIThesis/issues/425) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🎉 Merged PR [#424](https://github.com/BITNP/BIThesis/pull/424) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#81](https://github.com/fky2015/BIThesis-wiki/pull/81) in [fky2015/BIThesis-wiki](https://github.com/fky2015/BIThesis-wiki)
+2. 🎉 Merged PR [#1470](https://github.com/ByConity/ByConity/pull/1470) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+3. 🗣 Commented on [#1470](https://github.com/ByConity/ByConity/pull/1470#issuecomment-2017324377) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+4. 🗣 Commented on [#426](https://github.com/BITNP/BIThesis/pull/426#issuecomment-2017298713) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 💪 Opened PR [#1470](https://github.com/ByConity/ByConity/pull/1470) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
