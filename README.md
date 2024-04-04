@@ -139,11 +139,11 @@ SQL               1 hr 24 mins    █▓░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/fky2015/BIThesis-wiki/pull/85) in [fky2015/BIThesis-wiki](https://github.com/fky2015/BIThesis-wiki)
-2. 🎉 Merged PR [#206](https://github.com/BITNP/BIThesis-wiki/pull/206) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-3. 💪 Opened PR [#28](https://github.com/Scholar-Compass/content/pull/28) in [Scholar-Compass/content](https://github.com/Scholar-Compass/content)
-4. 🎉 Merged PR [#432](https://github.com/BITNP/BIThesis/pull/432) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#431](https://github.com/BITNP/BIThesis/issues/431#issuecomment-2020148859) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#437](https://github.com/BITNP/BIThesis/issues/437#issuecomment-2036920353) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🗣 Commented on [#437](https://github.com/BITNP/BIThesis/issues/437#issuecomment-2036298598) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. ❗ Opened issue [#437](https://github.com/BITNP/BIThesis/issues/437) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🗣 Commented on [#248](https://github.com/BITNP/BIThesis-wiki/issues/248#issuecomment-2036243533) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+5. 🗣 Commented on [#248](https://github.com/BITNP/BIThesis-wiki/issues/248#issuecomment-2034526492) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
