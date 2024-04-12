@@ -139,11 +139,11 @@ Bash              43 mins         █░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-2) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-2. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-1) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-3. 💪 Opened PR [#1635](https://github.com/ByConity/ByConity/pull/1635) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-4. 🎉 Merged PR [#445](https://github.com/BITNP/BIThesis/pull/445) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🎉 Merged PR [#449](https://github.com/BITNP/BIThesis/pull/449) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-8) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+2. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-7) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+3. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-6) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+4. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-5) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+5. 🚀 Published release [v3.7.3 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.3) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
