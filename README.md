@@ -139,11 +139,11 @@ Python          53 mins         █▒░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-9) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-2. 🗣 Commented on [#454](https://github.com/BITNP/BIThesis/issues/454#issuecomment-2053690000) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-8) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-4. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-7) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-5. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-6) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+1. 💪 Opened PR [#458](https://github.com/BITNP/BIThesis/pull/458) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. ❗ Opened issue [#457](https://github.com/BITNP/BIThesis/issues/457) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🎉 Merged PR [#456](https://github.com/BITNP/BIThesis/pull/456) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🚀 Published release [Test Only](https://github.com/ByConity/ByConity/releases/tag/0.4.0-testonly-9) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+5. 🗣 Commented on [#454](https://github.com/BITNP/BIThesis/issues/454#issuecomment-2053690000) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
