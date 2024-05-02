@@ -139,11 +139,11 @@ CMake           1 hr 30 mins    █▓░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#283](https://github.com/BITNP/BIThesis-wiki/pull/283) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-2. ❗ Opened issue [#482](https://github.com/BITNP/BIThesis/issues/482) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🚀 Published release [v3.7.6 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.6) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🎉 Merged PR [#481](https://github.com/BITNP/BIThesis/pull/481) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 💪 Opened PR [#480](https://github.com/BITNP/BIThesis/pull/480) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#474](https://github.com/BITNP/BIThesis/issues/474#issuecomment-2088929047) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🔒 Closed issue [#474](https://github.com/BITNP/BIThesis/issues/474) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🎉 Merged PR [#283](https://github.com/BITNP/BIThesis-wiki/pull/283) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+4. ❗ Opened issue [#482](https://github.com/BITNP/BIThesis/issues/482) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🚀 Published release [v3.7.6 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.6) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
