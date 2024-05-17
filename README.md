@@ -117,11 +117,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            2 hrs 34 mins   ███████████████████████░░   92.00 %
-Python         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-BibTeX         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
