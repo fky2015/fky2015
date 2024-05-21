@@ -135,11 +135,11 @@ No activity tracked
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#507](https://github.com/BITNP/BIThesis/pull/507) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🗣 Commented on [#506](https://github.com/BITNP/BIThesis/issues/506#issuecomment-2119094831) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🎉 Merged PR [#499](https://github.com/BITNP/BIThesis/pull/499) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🔒 Closed issue [#498](https://github.com/BITNP/BIThesis/issues/498) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#499](https://github.com/BITNP/BIThesis/pull/499#issuecomment-2109403743) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#505](https://github.com/BITNP/BIThesis/issues/505#issuecomment-2121840395) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#507](https://github.com/BITNP/BIThesis/pull/507) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#506](https://github.com/BITNP/BIThesis/issues/506#issuecomment-2119094831) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🎉 Merged PR [#499](https://github.com/BITNP/BIThesis/pull/499) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🔒 Closed issue [#498](https://github.com/BITNP/BIThesis/issues/498) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
