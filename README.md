@@ -117,7 +117,10 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++    31 mins         ██████████▓░░░░░░░░░░░░░░   42.20 %
+TeX    22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+Lua    20 mins         ███████░░░░░░░░░░░░░░░░░░   27.41 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
