@@ -139,11 +139,11 @@ Text           0 secs          ░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#519](https://github.com/BITNP/BIThesis/pull/519) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🎉 Merged PR [#520](https://github.com/BITNP/BIThesis/pull/520) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🎉 Merged PR [#521](https://github.com/BITNP/BIThesis/pull/521) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🚀 Published release [v3.7.8 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.8) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. ❗ Opened issue [#517](https://github.com/BITNP/BIThesis/issues/517) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#522](https://github.com/BITNP/BIThesis/pull/522) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#519](https://github.com/BITNP/BIThesis/pull/519) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🎉 Merged PR [#520](https://github.com/BITNP/BIThesis/pull/520) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🎉 Merged PR [#521](https://github.com/BITNP/BIThesis/pull/521) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🚀 Published release [v3.7.8 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.8) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
