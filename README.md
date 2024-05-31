@@ -139,11 +139,11 @@ Text           0 secs          ░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.7.9 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.9) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. ❗ Opened issue [#523](https://github.com/BITNP/BIThesis/issues/523) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🗣 Commented on [#517](https://github.com/BITNP/BIThesis/issues/517#issuecomment-2138898644) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🔒 Closed issue [#517](https://github.com/BITNP/BIThesis/issues/517) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#431](https://github.com/BITNP/BIThesis/issues/431#issuecomment-2138874264) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#525](https://github.com/BITNP/BIThesis/issues/525#issuecomment-2140977057) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🚀 Published release [v3.7.9 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.9) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. ❗ Opened issue [#523](https://github.com/BITNP/BIThesis/issues/523) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🗣 Commented on [#517](https://github.com/BITNP/BIThesis/issues/517#issuecomment-2138898644) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🔒 Closed issue [#517](https://github.com/BITNP/BIThesis/issues/517) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
