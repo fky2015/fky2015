@@ -139,11 +139,11 @@ OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#525](https://github.com/BITNP/BIThesis/issues/525#issuecomment-2140977057) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🚀 Published release [v3.7.9 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.9) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. ❗ Opened issue [#523](https://github.com/BITNP/BIThesis/issues/523) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#517](https://github.com/BITNP/BIThesis/issues/517#issuecomment-2138898644) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🔒 Closed issue [#517](https://github.com/BITNP/BIThesis/issues/517) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#11](https://github.com/fky2015/resume-ng/issues/11#issuecomment-2146693509) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+2. 🗣 Commented on [#525](https://github.com/BITNP/BIThesis/issues/525#issuecomment-2140977057) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🚀 Published release [v3.7.9 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.7.9) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. ❗ Opened issue [#523](https://github.com/BITNP/BIThesis/issues/523) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🗣 Commented on [#517](https://github.com/BITNP/BIThesis/issues/517#issuecomment-2138898644) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
