@@ -117,11 +117,9 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            56 mins         █████████████████▓░░░░░░░   70.77 %
-Bash           20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-BibTeX         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-PowerShell     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Bash         20 mins         ████████████▒░░░░░░░░░░░░   49.96 %
+TeX          19 mins         ████████████░░░░░░░░░░░░░   47.91 %
+PowerShell   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
