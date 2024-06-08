@@ -117,9 +117,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         20 mins         ████████████▒░░░░░░░░░░░░   49.96 %
-TeX          19 mins         ████████████░░░░░░░░░░░░░   47.91 %
-PowerShell   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+TeX   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
