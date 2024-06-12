@@ -117,7 +117,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
