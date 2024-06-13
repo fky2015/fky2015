@@ -117,7 +117,8 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust       19 mins         ████████████████████████▒   97.32 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
 ```
 
 <!--END_SECTION:waka-->
