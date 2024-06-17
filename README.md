@@ -117,9 +117,9 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         19 mins         ███████████████████▓░░░░░   78.28 %
-PowerShell   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+PowerShell   59 mins         ██████████████████▓░░░░░░   74.75 %
+Rust         19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
