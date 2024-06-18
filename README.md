@@ -117,9 +117,11 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   59 mins         ██████████████████▓░░░░░░   74.75 %
-Rust         19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+PowerShell   1 hr 44 mins    ████████████▒░░░░░░░░░░░░   49.25 %
+TypeScript   56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+JSON         29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Rust         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
