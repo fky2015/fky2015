@@ -139,11 +139,11 @@ TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#632](https://github.com/lucaslorentz/caddy-docker-proxy/issues/632#issuecomment-2173134286) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-2. 🔒 Closed issue [#632](https://github.com/lucaslorentz/caddy-docker-proxy/issues/632) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-3. ❗ Opened issue [#632](https://github.com/lucaslorentz/caddy-docker-proxy/issues/632) in [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
-4. 💪 Opened PR [#10430](https://github.com/immich-app/immich/pull/10430) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#533](https://github.com/BITNP/BIThesis/issues/533#issuecomment-2162116955) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#10380](https://github.com/immich-app/immich/issues/10380#issuecomment-2175794429) in [immich-app/immich](https://github.com/immich-app/immich)
+2. ❗ Opened issue [#447](https://github.com/mrmlnc/fast-glob/issues/447) in [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob)
+3. 🗣 Commented on [#534](https://github.com/BITNP/BIThesis/pull/534#issuecomment-2175487457) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 💪 Opened PR [#446](https://github.com/mrmlnc/fast-glob/pull/446) in [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob)
+5. 🗣 Commented on [#10430](https://github.com/immich-app/immich/pull/10430#issuecomment-2174142300) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
