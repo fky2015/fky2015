@@ -139,11 +139,11 @@ YAML         13 mins         ▓░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#10430](https://github.com/immich-app/immich/pull/10430) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🔒 Closed issue [#533](https://github.com/BITNP/BIThesis/issues/533) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🎉 Merged PR [#534](https://github.com/BITNP/BIThesis/pull/534) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. ❌ Closed PR [#10430](https://github.com/immich-app/immich/pull/10430) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#534](https://github.com/BITNP/BIThesis/pull/534#issuecomment-2176360481) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2180508613) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+2. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2180466938) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+3. 🗣 Commented on [#10430](https://github.com/immich-app/immich/pull/10430#issuecomment-2178813555) in [immich-app/immich](https://github.com/immich-app/immich)
+4. ❌ Reopened PR [#10430](https://github.com/immich-app/immich/pull/10430) in [immich-app/immich](https://github.com/immich-app/immich)
+5. 🔒 Closed issue [#533](https://github.com/BITNP/BIThesis/issues/533) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
