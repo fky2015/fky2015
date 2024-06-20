@@ -117,11 +117,11 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.00 %
-PowerShell   1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-JavaScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Rust         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+TypeScript   4 hrs 16 mins   █████████████░░░░░░░░░░░░   52.53 %
+PowerShell   2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
+JavaScript   51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
