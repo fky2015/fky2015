@@ -139,11 +139,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2182003018) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-2. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2180766655) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-3. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2180508613) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-4. 🗣 Commented on [#1721](https://github.com/ByConity/ByConity/issues/1721#issuecomment-2180466938) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-5. 🗣 Commented on [#10430](https://github.com/immich-app/immich/pull/10430#issuecomment-2178813555) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🚀 Published release [Add English Version](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+2. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+3. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-3) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+4. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-2) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+5. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-1) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
