@@ -138,11 +138,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add English Version](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
-2. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
-3. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-3) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
-4. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-2) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
-5. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-1) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+1. 💪 Opened PR [#12](https://github.com/mfussenegger/nlua/pull/12) in [mfussenegger/nlua](https://github.com/mfussenegger/nlua)
+2. 🚀 Published release [Add English Version](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+3. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-4) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+4. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-3) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
+5. 🚀 Published release [Test Release](https://github.com/fky2015/resume-ng/releases/tag/v0.1.4-alpha-2) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
