@@ -117,11 +117,11 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          3 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.32 %
-PowerShell   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Lua          3 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.34 %
+PowerShell   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
 TypeScript   47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
 Bash         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Text         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Text         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->
