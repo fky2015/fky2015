@@ -10,12 +10,12 @@
 
 I am an individual who enjoys experimenting, thinking, learning, and creating.
 
-During my undergraduate studies, I _worked as a full-stack developer_. 
-As a graduate student, my research focuses on the 
-_intersection of theory and practice in blockchain technology and consensus algorithms_. 
+During my undergraduate studies, I _worked as a full-stack developer_.
+As a graduate student, my research focuses on the
+_intersection of theory and practice in blockchain technology and consensus algorithms_.
 **Looking ahead, my aspiration is to become a developer specializing in distributed database systems.**
 
-I'm also a lover of LaTeX and Linux. 
+I'm also a lover of LaTeX and Linux.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
@@ -23,12 +23,10 @@ I'm also a lover of LaTeX and Linux.
   <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
 </picture>
 
-- :telescope: **Looking for an Internship in distributed systems.**
-- :microscope: I’m currently a graduate student working on **blockchain consensus algorithm development**.
+- :telescope: **Looking for to learn more in system.**
 - :seedling: I’m currently **learning everything**.
-- :handshake:	I’m **looking to collaborate** with other creators.
-- :goal_net: 2023 Goals: Begin a distributed systems internship and learn more.
-- :weight_lifting: Factold: I have recently been practicing **weightlifting (clean 60 kg now)**.
+- :handshake: I’m **looking to collaborate** with other creators.
+- :goal_net: 2024 Goals: Begin to contribute for Neovim.
 
 <div align="center">
 
