@@ -137,11 +137,11 @@ Makefile          53 mins         ▒░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1738](https://github.com/ByConity/ByConity/pull/1738#issuecomment-2252160716) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-2. 🗣 Commented on [#546](https://github.com/BITNP/BIThesis/pull/546#issuecomment-2250649227) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🎉 Merged PR [#546](https://github.com/BITNP/BIThesis/pull/546) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#546](https://github.com/BITNP/BIThesis/pull/546#issuecomment-2250011757) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 🗣 Commented on [#546](https://github.com/BITNP/BIThesis/pull/546#issuecomment-2250010528) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. ❌ Reopened PR [#1738](https://github.com/ByConity/ByConity/pull/1738) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+2. ❌ Closed PR [#1738](https://github.com/ByConity/ByConity/pull/1738) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+3. 🗣 Commented on [#1738](https://github.com/ByConity/ByConity/pull/1738#issuecomment-2252160716) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+4. 🗣 Commented on [#546](https://github.com/BITNP/BIThesis/pull/546#issuecomment-2250649227) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🎉 Merged PR [#546](https://github.com/BITNP/BIThesis/pull/546) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
