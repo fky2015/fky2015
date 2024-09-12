@@ -137,11 +137,11 @@ Other             13 mins         ░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#249](https://github.com/ByConity/byconity.github.io/issues/249) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
-2. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2337236753) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-3. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2333353206) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-4. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2331212233) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-5. 🗣 Commented on [#1802](https://github.com/ByConity/ByConity/issues/1802#issuecomment-2330509905) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+1. 🗣 Commented on [#4](https://github.com/fky2015/resume-ng-typst/issues/4#issuecomment-2345991793) in [fky2015/resume-ng-typst](https://github.com/fky2015/resume-ng-typst)
+2. ❗ Opened issue [#249](https://github.com/ByConity/byconity.github.io/issues/249) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+3. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2337236753) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+4. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2333353206) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+5. 🗣 Commented on [#1850](https://github.com/ByConity/ByConity/issues/1850#issuecomment-2331212233) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
