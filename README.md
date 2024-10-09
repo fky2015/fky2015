@@ -137,11 +137,11 @@ Other           24 mins         █░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.8.0 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.8.0) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 💪 Opened PR [#1048](https://github.com/typst/packages/pull/1048) in [typst/packages](https://github.com/typst/packages)
-3. ❗ Opened issue [#554](https://github.com/BITNP/BIThesis/issues/554) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🎉 Merged PR [#553](https://github.com/BITNP/BIThesis/pull/553) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 💪 Opened PR [#251](https://github.com/ByConity/byconity.github.io/pull/251) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+1. 💪 Opened PR [#254](https://github.com/ByConity/byconity.github.io/pull/254) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+2. 🚀 Published release [v3.8.0 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.8.0) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 💪 Opened PR [#1048](https://github.com/typst/packages/pull/1048) in [typst/packages](https://github.com/typst/packages)
+4. ❗ Opened issue [#554](https://github.com/BITNP/BIThesis/issues/554) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+5. 🎉 Merged PR [#553](https://github.com/BITNP/BIThesis/pull/553) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
