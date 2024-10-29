@@ -137,11 +137,11 @@ Markdown          9 mins          ▒░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2273](https://github.com/mozilla/sccache/issues/2273) in [mozilla/sccache](https://github.com/mozilla/sccache)
-2. 🗣 Commented on [#320](https://github.com/BITNP/BIThesis-wiki/issues/320#issuecomment-2421977556) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
-3. 💪 Opened PR [#254](https://github.com/ByConity/byconity.github.io/pull/254) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
-4. 🚀 Published release [v3.8.0 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.8.0) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-5. 💪 Opened PR [#1048](https://github.com/typst/packages/pull/1048) in [typst/packages](https://github.com/typst/packages)
+1. 💪 Opened PR [#1911](https://github.com/ByConity/ByConity/pull/1911) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
+2. ❗ Opened issue [#2273](https://github.com/mozilla/sccache/issues/2273) in [mozilla/sccache](https://github.com/mozilla/sccache)
+3. 🗣 Commented on [#320](https://github.com/BITNP/BIThesis-wiki/issues/320#issuecomment-2421977556) in [BITNP/BIThesis-wiki](https://github.com/BITNP/BIThesis-wiki)
+4. 💪 Opened PR [#254](https://github.com/ByConity/byconity.github.io/pull/254) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+5. 🚀 Published release [v3.8.0 (Public Release)](https://github.com/BITNP/BIThesis/releases/tag/v3.8.0) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
