@@ -137,11 +137,11 @@ fugitiveblame     0 secs          ░░░░░░░░░░░░░░░�
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#246](https://github.com/ByConity/byconity.github.io/issues/246) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
-2. 🎉 Merged PR [#254](https://github.com/ByConity/byconity.github.io/pull/254) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
-3. 🗣 Commented on [#559](https://github.com/BITNP/BIThesis/pull/559#issuecomment-2445667514) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 💪 Opened PR [#1911](https://github.com/ByConity/ByConity/pull/1911) in [ByConity/ByConity](https://github.com/ByConity/ByConity)
-5. ❗ Opened issue [#2273](https://github.com/mozilla/sccache/issues/2273) in [mozilla/sccache](https://github.com/mozilla/sccache)
+1. 🗣 Commented on [#560](https://github.com/BITNP/BIThesis/issues/560#issuecomment-2467688273) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🗣 Commented on [#561](https://github.com/BITNP/BIThesis/issues/561#issuecomment-2467686637) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🔒 Closed issue [#246](https://github.com/ByConity/byconity.github.io/issues/246) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+4. 🎉 Merged PR [#254](https://github.com/ByConity/byconity.github.io/pull/254) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
+5. 🗣 Commented on [#559](https://github.com/BITNP/BIThesis/pull/559#issuecomment-2445667514) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
