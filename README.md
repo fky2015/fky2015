@@ -115,11 +115,11 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-C++               6 hrs 10 mins   ██████████████████████░░░   87.67 %
-Bash              26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Protocol Buffer   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-fugitiveblame     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+C++               6 hrs 59 mins   ██████████████████████░░░   87.37 %
+Bash              26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+fugitiveblame     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Protocol Buffer   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+YAML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
