@@ -115,7 +115,8 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua   27 mins         █████████████████████████   100.00 %
+C++    1 hr 9 mins     ████████████████████████▓   99.10 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
