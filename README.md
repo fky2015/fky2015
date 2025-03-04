@@ -137,7 +137,7 @@ SQL             20 mins         ▒░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#564](https://github.com/BITNP/BIThesis/issues/564#issuecomment-2492853743) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🗣 Commented on [#13](https://github.com/fky2015/resume-ng/issues/13#issuecomment-2696332010) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
 2. 🗣 Commented on [#560](https://github.com/BITNP/BIThesis/issues/560#issuecomment-2475875731) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 3. 🗣 Commented on [#560](https://github.com/BITNP/BIThesis/issues/560#issuecomment-2467688273) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 4. 🗣 Commented on [#561](https://github.com/BITNP/BIThesis/issues/561#issuecomment-2467686637) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
