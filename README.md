@@ -137,10 +137,10 @@ SQL             6 mins          ▓░░░░░░░░░░░░░░░
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/fky2015/resume-ng/issues/13#issuecomment-2696332010) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
-2. 🗣 Commented on [#560](https://github.com/BITNP/BIThesis/issues/560#issuecomment-2475875731) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-3. 🗣 Commented on [#560](https://github.com/BITNP/BIThesis/issues/560#issuecomment-2467688273) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-4. 🗣 Commented on [#561](https://github.com/BITNP/BIThesis/issues/561#issuecomment-2467686637) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🔒 Closed issue [#589](https://github.com/BITNP/BIThesis/issues/589) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#590](https://github.com/BITNP/BIThesis/pull/590) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+3. 🗣 Commented on [#591](https://github.com/BITNP/BIThesis/issues/591#issuecomment-2740123654) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+4. 🗣 Commented on [#13](https://github.com/fky2015/resume-ng/issues/13#issuecomment-2696332010) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
 5. 🔒 Closed issue [#246](https://github.com/ByConity/byconity.github.io/issues/246) in [ByConity/byconity.github.io](https://github.com/ByConity/byconity.github.io)
 <!--END_SECTION:activity-->
 
