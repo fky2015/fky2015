@@ -115,8 +115,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 min           ████████████████░░░░░░░░░   64.19 %
-sh    0 secs          █████████░░░░░░░░░░░░░░░░   35.81 %
+sh   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
