@@ -133,8 +133,8 @@ No activity tracked
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#643](https://github.com/BITNP/BIThesis/pull/643) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
-2. 🎉 Merged PR [#588](https://github.com/BITNP/BIThesis/pull/588) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+1. 🎉 Merged PR [#672](https://github.com/BITNP/BIThesis/pull/672) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
+2. 🎉 Merged PR [#643](https://github.com/BITNP/BIThesis/pull/643) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 3. 🔒 Closed issue [#589](https://github.com/BITNP/BIThesis/issues/589) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 4. 🎉 Merged PR [#590](https://github.com/BITNP/BIThesis/pull/590) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
 5. 🗣 Commented on [#591](https://github.com/BITNP/BIThesis/issues/591#issuecomment-2740123654) in [BITNP/BIThesis](https://github.com/BITNP/BIThesis)
