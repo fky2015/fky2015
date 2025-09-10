@@ -115,8 +115,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Kconfig   2 mins          ██████████████████████░░░   88.61 %
-INI       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
