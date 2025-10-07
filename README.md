@@ -123,11 +123,7 @@ No activity tracked
 ## ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)
-- [用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)
-- [AIGC 与我们](https://blog.fkynjyq.com/AIGC-to-us)
-- [关于 GNOME 登录页面灰屏幕卡死的这件事](https://blog.fkynjyq.com/stuck-at-frozen-gnome-session-when-logging-in)
-- [2023 的 Roam Research 怎么样了？](https://blog.fkynjyq.com/how-s-roam-research-doing-in-2023)
+- [Introduction to Nexon - A Next.js Notion Blog Template](https://blog.fkynjyq.com/nexon-is-a-nextjs-notion-blog-template)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Github Activity & Stats
