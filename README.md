@@ -115,8 +115,8 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Text    53 mins         ████████████████████████▓   98.51 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text    43 mins         █████████████████████████   99.98 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
