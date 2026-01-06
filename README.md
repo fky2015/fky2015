@@ -115,8 +115,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Text    43 mins         █████████████████████████   99.98 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
