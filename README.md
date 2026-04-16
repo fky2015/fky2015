@@ -115,7 +115,8 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   2 mins                █████████████████░░░░░░░░   68.60 %
+Text    1 min                 ████████░░░░░░░░░░░░░░░░░   31.40 %
 ```
 
 <!--END_SECTION:waka-->
