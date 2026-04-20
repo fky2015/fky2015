@@ -10,12 +10,12 @@
 
 I am an individual who enjoys experimenting, thinking, learning, and creating.
 
-During my undergraduate studies, I _worked as a full-stack developer_.
-As a graduate student, my research focuses on the
-_intersection of theory and practice in blockchain technology and consensus algorithms_.
-**Looking ahead, my aspiration is to become a developer specializing in distributed database systems.**
+I work on analytical database infrastructure, with a focus on storage and metadata systems.
 
-I'm also a lover of LaTeX and Linux.
+My background spans blockchain research, full-stack development, and distributed systems.
+I am particularly interested in building infrastructure for data-intensive systems and resource scheduling.
+
+I'm also a lover of LaTeX, Neovim and Linux.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fky2015/fky2015/raw/output/github-snake-dark.svg">
@@ -23,10 +23,10 @@ I'm also a lover of LaTeX and Linux.
   <img alt="snk" src="https://github.com/fky2015/fky2015/raw/output/github-snake.svg">
 </picture>
 
-- :telescope: **Looking for to learn more in system.**
-- :seedling: I’m currently **learning everything**.
-- :handshake: I’m **looking to collaborate** with other creators.
-- :goal_net: 2024 Goals: Begin to contribute for Neovim.
+- :telescope: Focused on **systems, infrastructure, and databases**.
+- :seedling: Currently learning more about **storage engines, metadata systems, and resource scheduling**.
+- :handshake: Open to collaborate on **infra, databases, and developer tools**.
+- :goal_net: 2026 Goal: Rebuild a **healthy body, lifestyle, and learning routine**.
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I'm also a lover of LaTeX and Linux.
 
 </div>
 
-As a second-year graduate student, I proposed a novel consensus algorithm called [Jasmine](https://github.com/fky2015/Jasmine) as part of my research. In the meanwhile, I decided that I would like to work on infrastructure in the future. Consequently, I embarked on an internship at ByteHouse.
+In the past, I worked on blockchain research, full-stack development, and distributed systems; today, I focus on analytical database infrastructure, especially storage and metadata; looking ahead, I want to keep building infrastructure for data-intensive systems and resource scheduling.
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC01.svg?&style=flat-square&logo=ClickHouse&logoColor=white)
@@ -80,6 +80,8 @@ During my freshman year, I divided my time between participating in ACM and CTF 
 ![Shell Script](https://img.shields.io/badge/Shell_Script%20-%23121011.svg?&style=flat-square&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?&style=flat-square&logo=vim&logoColor=white)
 
+One of my earlier research projects was [Jasmine](https://github.com/fky2015/Jasmine), a blockchain consensus algorithm prototype.
+
 Other tools preferences:
 
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
@@ -97,9 +99,13 @@ Other tools preferences:
 </div>
 
 - Education Summary
-  - Master of Science in Cyberspace Science and Technology | Beijing Institute of Technology (2021-present), specializing in consensus algorithms.
+  - Master of Science in Cyberspace Science and Technology | Beijing Institute of Technology (2021-2024), specializing in consensus algorithms.
   - Bachelor of Science in Computer Science | Beijing Institute of Technology (2017-2021)
-- Internship
+- Work Experience
+  - **Software Engineer** | _ByteHouse, ByteDance_ (2024/7 - Present).
+    - Working on storage and metadata systems for OLAP workloads.
+  - **Software Engineer Intern** | _ByteHouse, ByteDance_ (2023/4 - 2024/4).
+    - Worked on infrastructure related to OLAP systems.
   - **Backend Development Intern** | _Fanqie Novel, ByteDance_ (2020/10 - 2021/3).
     - Technologies used: Golang, Kafka, and FaaS.
     - Responsibilities: Designing technical systems, completing development, testing, and deploying the systems.
@@ -137,4 +143,3 @@ Other tools preferences:
 <sub><sup>
 [*Read me before creating yours.](https://github.com/fky2015/fky2015/wiki/Read-me-before-creating-yours-profile.)
 </sup></sub>
-
