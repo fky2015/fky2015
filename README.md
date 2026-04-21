@@ -119,6 +119,12 @@ Other tools preferences:
 ## 🧠 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+Other   2 mins                █████████████████░░░░░░░░   68.60 %
+Text    1 min                 ████████░░░░░░░░░░░░░░░░░   31.40 %
+```
+
 <!--END_SECTION:waka-->
 
 ## ✍🏻 Blog posts
