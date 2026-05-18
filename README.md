@@ -134,7 +134,7 @@ No activity tracked
 ## ⚡ Github Activity & Stats
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Cannon07/code-preview.nvim/pull/49) in [Cannon07/code-preview.nvim](https://github.com/Cannon07/code-preview.nvim)
+1. 🗣 Commented on [#15](https://github.com/fky2015/resume-ng/pull/15#issuecomment-4474519436) in [fky2015/resume-ng](https://github.com/fky2015/resume-ng)
 <!--END_SECTION:activity-->
 
 ![FKY's github stats](https://github-readme-stats-phi-lemon.vercel.app/api?username=fky2015&count_private=true&show_icons=true&title_color=fff&text_color=fff&icon_color=aaa&bg_color=401030,e96443,904e95&hide_rank=true)
