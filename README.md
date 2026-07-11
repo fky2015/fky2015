@@ -121,7 +121,10 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 3 mins           ████████████████▒░░░░░░░░   65.34 %
+Other        19 mins               █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+HTML         12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
