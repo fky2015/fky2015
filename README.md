@@ -121,10 +121,11 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 3 mins           ████████████████░░░░░░░░░   64.03 %
-Other        21 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-HTML         12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+JavaScript   1 hr 3 mins           █████████████░░░░░░░░░░░░   52.59 %
+Markdown     22 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+Other        21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
+HTML         12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Text         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
