@@ -121,9 +121,9 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   22 mins               ██████████████████░░░░░░░   72.56 %
-Other      6 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
-Text       1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Markdown   35 mins               █████████████████████████   99.90 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
