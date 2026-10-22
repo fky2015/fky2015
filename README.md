@@ -121,11 +121,7 @@ Other tools preferences:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON              1 hr 24 mins          ████████░░░░░░░░░░░░░░░░░   32.52 %
-Python            1 hr 16 mins          ███████▒░░░░░░░░░░░░░░░░░   29.38 %
-TSV               45 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Markdown          24 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-PowerShell        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
